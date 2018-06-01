@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: accesos
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: emmanuel
+Implementation-Vendor-Id: com.santander.crm.sinergia
+Build-Jdk: 1.8.0_101
+Implementation-URL: http://projects.spring.io/spring-boot/accesos/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
